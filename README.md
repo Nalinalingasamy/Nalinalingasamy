@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nalinalingasamy
-- Electrical Engineer... Power System Engineer... Data Analyst... 
+- Electrical Engineer... Power System Engineer... 
 - 👀 I’m interested in Playing with DATA...capturing the nature..
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as Machine Learning Intern @ Aegion Dynamic Solutions
 
 
 <!---
